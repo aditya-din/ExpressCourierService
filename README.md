@@ -26,7 +26,7 @@ MySql
 
 Folder Structure(do not rename any folder)
 
-ExpressCourier.zip -> Main folder unzip it and keep it.
+ExpressCourier.zip -> Main folder unzip it and keep it.Inside this folder there is a SQL file use that for data base.
 
 Admin.zip -> For Admin. unzip it and put it inside  ExpressCourier(main folder).
 
