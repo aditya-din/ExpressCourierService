@@ -22,3 +22,14 @@ PHP,
 MySql
 
 
+----------------------------------------------------------------------------------------------------------------
+
+Folder Structure(do not rename any folder)
+
+ExpressCourier.zip -> Main folder unzip it and keep it.
+
+Admin.zip -> For Admin. unzip it and put it inside  ExpressCourier(main folder).
+
+delivery.zip  -> For delivery. unzip it and put it inside  ExpressCourier(main folder).
+
+empAdmin.zip -> For employee. unzip it and put it inside  ExpressCourier(main folder).
